@@ -1,0 +1,37 @@
+<configuration>
+
+ <input>
+ <net-file value="N6.net.xml"/>
+ <additional-files value="vtype.xml,0902route.xml,2mycalibrator0902.xml,New810-820.add.xml"/>
+ </input>
+ 
+
+ 
+ <time>
+ <begin value="0"/>
+ <end value="4200"/>
+ <step-length value="1"/>
+ <time-to-teleport value="60"/>
+ </time>
+
+ 
+ <gui-only>
+ <start value="false"/>
+ <quit-on-end value="false"/>
+ </gui-only>
+ 
+ <random-number>
+ <random value="false"/>
+ </random-number>
+  
+ <processing>
+ <collision.action value="warn"/>
+ <collision.mingap-factor value="0"/>
+ <emergencydecel.warning-threshold value ="1.0"/>
+
+
+ <random-depart-offset value="0"/>
+ </processing>
+ 
+ 
+</configuration>

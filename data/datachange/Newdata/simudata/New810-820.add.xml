@@ -1,0 +1,35 @@
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <e1Detector id="820 SB_1" lane="444071875_0" pos="577.9456913314223" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="820 SB_2" lane="444071875_1" pos="577.9456913314223" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="820 SB_3" lane="444071875_2" pos="577.9456913314223" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="819 SB_1" lane="444071875_0" pos="949.6536088140441" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="819 SB_2" lane="444071875_1" pos="949.6536088140441" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="819 SB_3" lane="444071875_2" pos="949.6536088140441" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="818 SB_1" lane="444071875_0" pos="1608.4214639354702" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="818 SB_2" lane="444071875_1" pos="1608.4214639354702" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="818 SB_3" lane="444071875_2" pos="1608.4214639354702" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="817 SB_1" lane="444071862_0" pos="75.77395071535489" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="817 SB_2" lane="444071862_1" pos="75.77395071535489" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="817 SB_3" lane="444071862_2" pos="75.77395071535489" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="816 SB_1" lane="444071852_0" pos="353.7271453535862" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="816 SB_2" lane="444071852_1" pos="353.7271453535862" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="816 SB_3" lane="444071852_2" pos="353.7271453535862" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="815 SB_1" lane="444071852_0" pos="786.5617998941175" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="815 SB_2" lane="444071852_1" pos="786.5617998941175" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="815 SB_3" lane="444071852_2" pos="786.5617998941175" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="814 SB_1" lane="444071852_0" pos="1241.515403852735" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="814 SB_2" lane="444071852_1" pos="1241.515403852735" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="814 SB_3" lane="444071852_2" pos="1241.515403852735" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="813 SB_1" lane="444071852_2" pos="1633.642315321973" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="813 SB_2" lane="444071852_1" pos="1633.642315321973" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="813 SB_3" lane="444071852_0" pos="1633.642315321973" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="812 SB_1" lane="583369727#1_4" pos="42.93536376597875" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="812 SB_2" lane="583369727#1_3" pos="42.93536376597875" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="812 SB_3" lane="583369727#1_2" pos="42.93536376597875" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="811 SB_1" lane="443921506_3" pos="197.5966391725697" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="811 SB_2" lane="443921506_2" pos="197.5966391725697" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="811 SB_3" lane="443921506_1" pos="197.5966391725697" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="810 SB_1" lane="M2.4_2" pos="433.02639486422964" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="810 SB_2" lane="M2.4_1" pos="433.02639486422964" freq="60" file="out.xml" friendlyPos="True"/>
+    <e1Detector id="810 SB_3" lane="M2.4_0" pos="433.02639486422964" freq="60" file="out.xml" friendlyPos="True"/>
+</additional>

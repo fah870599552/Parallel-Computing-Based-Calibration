@@ -1,0 +1,67 @@
+<additional>
+	<calibrator id="A1" lane="444071875_0" pos="1.00" out="result.xml">
+		<flow begin="0" end="300" id="444071875_M2.40" vehsPerHour="2376" route="444071875_M2.4" type="carr" />
+		<flow begin="300" end="600" id="444071875_M2.41" vehsPerHour="2556" route="444071875_M2.4" type="carr" />
+		<flow begin="600" end="900" id="444071875_M2.42" vehsPerHour="2316" route="444071875_M2.4" type="carr" />
+		<flow begin="900" end="1200" id="444071875_M2.43" vehsPerHour="2538" route="444071875_M2.4" type="carr" />
+		<flow begin="1200" end="1500" id="444071875_M2.44" vehsPerHour="2322" route="444071875_M2.4" type="carr" />
+		<flow begin="1500" end="1800" id="444071875_M2.45" vehsPerHour="2484" route="444071875_M2.4" type="carr" />
+		<flow begin="1800" end="2100" id="444071875_M2.46" vehsPerHour="2262" route="444071875_M2.4" type="carr" />
+		<flow begin="2100" end="2400" id="444071875_M2.47" vehsPerHour="2436" route="444071875_M2.4" type="carr" />
+		<flow begin="2400" end="2700" id="444071875_M2.48" vehsPerHour="2322" route="444071875_M2.4" type="carr" />
+		<flow begin="2700" end="3000" id="444071875_M2.49" vehsPerHour="2142" route="444071875_M2.4" type="carr" />
+		<flow begin="3000" end="3300" id="444071875_M2.410" vehsPerHour="2166" route="444071875_M2.4" type="carr" />
+		<flow begin="3300" end="3600" id="444071875_M2.411" vehsPerHour="2214" route="444071875_M2.4" type="carr" />
+		<flow begin="3600" end="3900" id="444071875_M2.412" vehsPerHour="2256" route="444071875_M2.4" type="carr" />
+		<flow begin="3900" end="4200" id="444071875_M2.413" vehsPerHour="2202" route="444071875_M2.4" type="carr" />
+	</calibrator>
+	<calibrator id="A2" lane="444071875_1" pos="1.00" out="result.xml">
+		<flow begin="0" end="300" id="444071875_M2.40" vehsPerHour="2376" route="444071875_M2.4" type="carr" />
+		<flow begin="300" end="600" id="444071875_M2.41" vehsPerHour="2556" route="444071875_M2.4" type="carr" />
+		<flow begin="600" end="900" id="444071875_M2.42" vehsPerHour="2316" route="444071875_M2.4" type="carr" />
+		<flow begin="900" end="1200" id="444071875_M2.43" vehsPerHour="2538" route="444071875_M2.4" type="carr" />
+		<flow begin="1200" end="1500" id="444071875_M2.44" vehsPerHour="2322" route="444071875_M2.4" type="carr" />
+		<flow begin="1500" end="1800" id="444071875_M2.45" vehsPerHour="2484" route="444071875_M2.4" type="carr" />
+		<flow begin="1800" end="2100" id="444071875_M2.46" vehsPerHour="2262" route="444071875_M2.4" type="carr" />
+		<flow begin="2100" end="2400" id="444071875_M2.47" vehsPerHour="2436" route="444071875_M2.4" type="carr" />
+		<flow begin="2400" end="2700" id="444071875_M2.48" vehsPerHour="2322" route="444071875_M2.4" type="carr" />
+		<flow begin="2700" end="3000" id="444071875_M2.49" vehsPerHour="2142" route="444071875_M2.4" type="carr" />
+		<flow begin="3000" end="3300" id="444071875_M2.410" vehsPerHour="2166" route="444071875_M2.4" type="carr" />
+		<flow begin="3300" end="3600" id="444071875_M2.411" vehsPerHour="2214" route="444071875_M2.4" type="carr" />
+		<flow begin="3600" end="3900" id="444071875_M2.412" vehsPerHour="2256" route="444071875_M2.4" type="carr" />
+		<flow begin="3900" end="4200" id="444071875_M2.413" vehsPerHour="2202" route="444071875_M2.4" type="carr" />
+	</calibrator>
+	<calibrator id="B1" lane="444071875_2" pos="1.00" out="result.xml">
+		<flow begin="0" end="300" id="444071875_Off30" vehsPerHour="300" route="444071875_Off3" type="carr" />
+		<flow begin="300" end="600" id="444071875_Off31" vehsPerHour="168" route="444071875_Off3" type="carr" />
+		<flow begin="600" end="900" id="444071875_Off32" vehsPerHour="324" route="444071875_Off3" type="carr" />
+		<flow begin="900" end="1200" id="444071875_Off33" vehsPerHour="456" route="444071875_Off3" type="carr" />
+		<flow begin="1200" end="1500" id="444071875_Off34" vehsPerHour="300" route="444071875_Off3" type="carr" />
+		<flow begin="1500" end="1800" id="444071875_Off35" vehsPerHour="504" route="444071875_Off3" type="carr" />
+		<flow begin="1800" end="2100" id="444071875_Off36" vehsPerHour="144" route="444071875_Off3" type="carr" />
+		<flow begin="2100" end="2400" id="444071875_Off37" vehsPerHour="252" route="444071875_Off3" type="carr" />
+		<flow begin="2400" end="2700" id="444071875_Off38" vehsPerHour="408" route="444071875_Off3" type="carr" />
+		<flow begin="2700" end="3000" id="444071875_Off39" vehsPerHour="528" route="444071875_Off3" type="carr" />
+		<flow begin="3000" end="3300" id="444071875_Off310" vehsPerHour="432" route="444071875_Off3" type="carr" />
+		<flow begin="3300" end="3600" id="444071875_Off311" vehsPerHour="120" route="444071875_Off3" type="carr" />
+		<flow begin="3600" end="3900" id="444071875_Off312" vehsPerHour="216" route="444071875_Off3" type="carr" />
+		<flow begin="3900" end="4200" id="444071875_Off313" vehsPerHour="456" route="444071875_Off3" type="carr" />
+	</calibrator>
+	<calibrator id="C1" edge="On3" pos="1.00" out="result.xml">
+		<flow begin="0" end="300" id="On3_M2.40" vehsPerHour="3120" route="On3_M2.4" type="carr" />
+		<flow begin="300" end="600" id="On3_M2.41" vehsPerHour="3432" route="On3_M2.4" type="carr" />
+		<flow begin="600" end="900" id="On3_M2.42" vehsPerHour="2892" route="On3_M2.4" type="carr" />
+		<flow begin="900" end="1200" id="On3_M2.43" vehsPerHour="3336" route="On3_M2.4" type="carr" />
+		<flow begin="1200" end="1500" id="On3_M2.44" vehsPerHour="3072" route="On3_M2.4" type="carr" />
+		<flow begin="1500" end="1800" id="On3_M2.45" vehsPerHour="3072" route="On3_M2.4" type="carr" />
+		<flow begin="1800" end="2100" id="On3_M2.46" vehsPerHour="3132" route="On3_M2.4" type="carr" />
+		<flow begin="2100" end="2400" id="On3_M2.47" vehsPerHour="3288" route="On3_M2.4" type="carr" />
+		<flow begin="2400" end="2700" id="On3_M2.48" vehsPerHour="3216" route="On3_M2.4" type="carr" />
+		<flow begin="2700" end="3000" id="On3_M2.49" vehsPerHour="3048" route="On3_M2.4" type="carr" />
+		<flow begin="3000" end="3300" id="On3_M2.410" vehsPerHour="3144" route="On3_M2.4" type="carr" />
+		<flow begin="3300" end="3600" id="On3_M2.411" vehsPerHour="3492" route="On3_M2.4" type="carr" />
+		<flow begin="3600" end="3900" id="On3_M2.412" vehsPerHour="3192" route="On3_M2.4" type="carr" />
+		<flow begin="3900" end="4200" id="On3_M2.413" vehsPerHour="3312" route="On3_M2.4" type="carr" />
+	</calibrator>
+</additional>
+

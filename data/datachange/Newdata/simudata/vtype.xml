@@ -1,0 +1,4 @@
+<additional>
+	<vType carFollowModel="" laneChangeModel="SL2015" id="carr"
+		   vClass="passenger" />
+</additional>

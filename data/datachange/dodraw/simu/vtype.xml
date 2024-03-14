@@ -1,0 +1,3 @@
+<additional>
+	<vType accel="3.727118963135314100" carFollowModel="IDM" decel="5.243013943943639177" id="carr" laneChangeModel="LC2013" lcAssertive="1.151382540924838604" lcCooperative="0.6467200770827379319" speedDev="0.2665803036781467239" speedFactor="1.021944158165639660" tau="2.014419572899859290" vClass="passenger" />
+</additional>
